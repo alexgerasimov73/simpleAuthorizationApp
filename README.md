@@ -1,0 +1,1 @@
+## Repo with simple authorization
